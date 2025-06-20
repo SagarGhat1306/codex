@@ -17,7 +17,7 @@ import Link from "next/link";
     {
       id: 3,
       title: "The Future of Web Development",
-      excerpt: "AI, WebAssembly, and edge computing – discover what's shaping the future of web development.",
+      excerpt: "AI, WebAssembly, and edge computing – discover what is shaping the future of web development.",
       date: "June 15, 2025"
     }
   ];
