@@ -15,11 +15,11 @@ export default function AboutPage() {
       </p>
 
       <p className="text-gray-700 mb-4">
-        Whether you're a beginner starting your journey or an experienced developer looking to level up, you'll find valuable resources here.
+        Whether you are a beginner starting your journey or an experienced developer looking to level up, you will find valuable resources here.
       </p>
 
       <p className="text-gray-500 italic">
-        Keep hunting, keep coding. 🚀
+        Keep hunting, keep coding. 
       </p>
     </div>
   );
